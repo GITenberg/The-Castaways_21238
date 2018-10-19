@@ -472,7 +472,7 @@ direction the soft-sighing breeze might capriciously carry it.
 Note 1.  The albatross Is the largest of the ocean-birds.  Its wings,
 when extended, measuring fifteen feet, and its weight sometimes
 exceeding twenty to twenty-four pounds.  The common albatross is the
-_Diomedea exulans_ of naturalists.  It plumage, except a few of the wing
+_Diomedea exulans_ of naturalists.  Its plumage, except a few of the wing
 feathers, is white; its long, hard beak, which Is very powerful, is of a
 pale yellow colour; and its short, webbed feet are flesh coloured.  It
 is frequently met with in the Southern Ocean.  The species mentioned in
@@ -1201,7 +1201,7 @@ and are consequently somewhat hexagonal in shape.  With this
 _chevaux-de-frise_ it is so completely armed, that when the stalk is
 broken close off it is impossible to take up the fruit without having
 one's fingers badly pricked.  The outer rind is so tough and strong,
-that no matter from what height the fruit fall it is never crushed or
+that no matter from what height the fruit falls it is never crushed or
 broken.  From the base of the fruit to its apex, five faint lines may be
 traced running among the spines.  These form the divisions of the
 carpels where the fruit can be cut open with a sharp knife, though
@@ -3243,7 +3243,7 @@ As soon as this was eaten, they took steps to change their place of
 encampment.  Twice unfortunate in the selection of a site, they were now
 more particular, and carefully scrutinised the next tree under whose
 shadow they intended to take up their abode.  A spreading fig not far
-off invited them to repose beneath its umbrageous foliage; and removing;
+off invited them to repose beneath its umbrageous foliage; and removing
 their camp paraphernalia from the poison-breathing; upas, they once more
 erected the tarpaulin, and recommenced housekeeping under the protecting
 shelter of a tree celebrated in the Hindu mythology as the "sacred
